@@ -9,6 +9,7 @@
 </head>
 <body>
 	<h1>check routine</h1>
+	<button onclick="window.location.href = '/logout'" style ="margin-left:22%; margin-bottom: 30px;" >Log out</button>
 	
 	<table border="1">
 	

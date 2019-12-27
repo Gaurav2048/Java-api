@@ -22,7 +22,7 @@
 			<form:option value="Development1">Development1</form:option>
 		</form:select> <br>
 		Date of Birth: <form:input path="dob" type="date" />	<br/>
-		<form:hidden path="id"/>
+		<form:hidden path="id" />
 		<button type="submit"  >Submit</button>
 	</form:form>
 	
